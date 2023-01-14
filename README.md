@@ -1,2 +1,2 @@
 # Projetos
-Projetos para faculdade
+Projetos pessoais
